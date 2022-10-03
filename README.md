@@ -10,4 +10,4 @@ Desafio final da Trilha de CSS da DIO! foi construído uma Landing Page com HTML
 <img src="https://user-images.githubusercontent.com/65576111/193646020-200e5368-d8c6-414d-bb0d-d05892f1f164.png" width="30%" height="30%">
 </div>
 
-[Link do Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) usado como protótipo do desafio usado como base.
+[Link do Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) usado como protótipo do desafio.
